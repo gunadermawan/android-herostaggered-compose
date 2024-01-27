@@ -1,5 +1,5 @@
 package com.gun.herolist.model
 
 data class Hero(
-    val id: String, val name: String, val photoUrl: String,
+    val id: String, val name: String, val photoUrl: String
 )
